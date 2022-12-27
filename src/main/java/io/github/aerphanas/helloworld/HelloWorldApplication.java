@@ -1,4 +1,4 @@
-package io.github.aerphanas.hellowolrd;
+package io.github.aerphanas.helloworld;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
